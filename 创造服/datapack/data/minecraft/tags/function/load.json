@@ -3,6 +3,7 @@
         "ks-server_crea:load/load_successful",
         "ks-server_crea:load/scoreboard",
 
+        "ks-server_crea:progress_bossbar/add_bossbar",
         "ks-server_crea:title_bossbar/add_bossbar"
     ]
 }

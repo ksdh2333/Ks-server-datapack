@@ -1,5 +1,6 @@
 {
     "values": [
+        "ks-server_crea:progress_bossbar/show_bossbar",
         "ks-server_crea:title_bossbar/show_bossbar"
     ]
 }
